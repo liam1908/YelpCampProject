@@ -1,4 +1,4 @@
-//Check commit of the Github
+
 const BaseJoi = require('joi');
 const sanitizeHtml = require('sanitize-html');
 
