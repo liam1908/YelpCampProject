@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8eafd4a1-c1b3-4502-9853-0b89853bf2dc/AppServices/subscriptions/8eafd4a1-c1b3-4502-9853-0b89853bf2dc/resourceGroups/YelpCampNodeJs-rg/providers/Microsoft.Web/sites/YelpCampNodeJs",
+    "appService.deploySubpath": "."
+}
